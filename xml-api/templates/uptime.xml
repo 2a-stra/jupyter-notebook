@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AastraIPPhoneTextScreen>
+    <Title>Good day!</Title>
+    <Text>Uptime: {{ uptime }}</Text>
+</AastraIPPhoneTextScreen>
