@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AastraIPPhoneInputScreen type="string" destroyOnExit="yes">
+    <Title>Enter auth data</Title>
+    <URL>http://192.168.5.22:8888/login</URL>
+    <InputField type="number">
+        <Prompt>Extension number:</Prompt>
+        <Parameter>extension</Parameter>
+    </InputField>
+    <InputField type="number" password="yes">
+        <Prompt>Password:</Prompt>
+        <Parameter>password</Parameter>
+    </InputField>
+</AastraIPPhoneInputScreen>

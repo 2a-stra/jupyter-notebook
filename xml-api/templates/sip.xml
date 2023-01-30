@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AastraIPPhoneConfiguration setType="local">
+    <ConfigurationItem>
+        <Parameter>sip line1 user name</Parameter>
+        <Value>{{ user }}</Value>
+    </ConfigurationItem>
+    <ConfigurationItem>
+        <Parameter>sip line1 auth name</Parameter>
+        <Value>{{ user }}</Value>
+    </ConfigurationItem>
+    <ConfigurationItem>
+        <Parameter>sip line1 password</Parameter>
+        <Value>{{ passw }}</Value>
+    </ConfigurationItem>
+</AastraIPPhoneConfiguration>
