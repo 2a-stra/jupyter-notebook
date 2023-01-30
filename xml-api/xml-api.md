@@ -204,7 +204,7 @@ Press CTRL+C to quit
 
 Restart the SIP phone after setting up Configuration server Address, Path and Port in the SIP phone menu. During restart the phone requests configuration files and firmware from the server. After restart we could press "Login" softkey button and get input screen retrieved from XML server for for authentication:
 
-![](input.jpeg)
+![](input.jpeg.jpg)
 
 We could check successful SIP registration from SIP-phone 'Status' -> 'System information' menu:
 ```
@@ -216,7 +216,7 @@ Line	SIP Account	Status	Backup Registrar Used?
 
 Test XML application by pressing "App" softkey button:
 
-![](uptime.jpeg)
+![](uptime.jpeg.jpg)
 
 
 ## 3. Asterisk SIP extensions configuration
